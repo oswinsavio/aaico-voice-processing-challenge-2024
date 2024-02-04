@@ -30,13 +30,13 @@ To have your solution considered, it must be reproducible by the AAICO team.
 
 #### Team
 
-Team name: [Team name]
+Team name: The Data Science Geeks
 
 Members:
 
-- [Member Name] - [Member email]
-- [Member Name] - [Member email]
-- [Member Name] - [Member email]
+- Oswin Savio Concessao - oswin.savio@gmail.com
+- Omar Altaf Siddiqui - omaraltaf.77s@gmail.com
+- Shaikh Shoaib Hassan - lildiggs007@gmail.com
 
 #### Solution description
 
